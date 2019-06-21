@@ -1,0 +1,5 @@
+.idea
+/target/
+
+/src/main/resources/rules-real
+/src/main/resources/rules-fake
