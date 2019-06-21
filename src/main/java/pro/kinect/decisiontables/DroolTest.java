@@ -19,7 +19,7 @@ public class DroolTest {
 			FactHandle fact1;
 
 			Application application = new Application();
-			application.setBrand("Lendwise");
+			application.setBrand("Google");
 
 			fact1 = kSession.insert(application);
 
